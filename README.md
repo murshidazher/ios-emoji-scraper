@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/murshidazher/ios-emoji-scraper/master/ios_emoji/dab.png"/>
+<img src="https://res.cloudinary.com/murshidazher/image/upload/dab.png"/>
 
 # [ios-emoji-scrapper](https://github.com/murshidazher/ios-emoji-scraper)
 
-> Short short description
+> Apple iOS 13.3 emoji collection
 
-Some info
+Emojisland emoji scraper for those who crave for a **Consistent** emoji library.
 
 ## Links
 
