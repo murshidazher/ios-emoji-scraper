@@ -4,7 +4,7 @@
 
 > Apple iOS 13.3 emoji collection
 
-Emojisland emoji scraper for those who crave for a **Consistent** emoji library.
+Emojipedia emoji scraper for those who crave for a **Consistent** emoji library.
 
 ## Links
 
